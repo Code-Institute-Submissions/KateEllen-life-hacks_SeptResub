@@ -3,3 +3,42 @@
 body {
     font-family: 'Montserrat', sans-serif;
 }
+
+/* navigation links */
+
+nav {
+    text-align: center;
+}
+
+#menu {
+    font-size: 150%;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+
+}
+
+#menu li {
+    list-style-type: none;
+    display: inline;
+    margin-right: 50px;
+    margin-left: 50px
+    
+}
+
+
+#menu a {
+
+    text-decoration: none;
+    color: #1A5276;
+    
+}
+
+#menu a:hover {
+    border-bottom: 0.5px solid;
+    color: #85C1E9;
+}
+
+.active {
+    border-bottom : 0.5px solid;
+    color: #85C1E9;
+}

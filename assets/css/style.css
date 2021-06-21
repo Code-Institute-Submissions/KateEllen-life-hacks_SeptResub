@@ -42,3 +42,16 @@ nav {
     border-bottom : 0.5px solid;
     color: #85C1E9;
 }
+
+/* hero image */
+
+#hero-image{
+
+    height:600px;
+    width:100%;
+    background: url(../images/hero-image.png) no-repeat center center;
+    overflow: hidden;
+    position:relative;
+
+
+}

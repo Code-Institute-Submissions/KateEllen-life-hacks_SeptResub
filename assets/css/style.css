@@ -90,3 +90,10 @@ footer {
     color:  #1A5276;
 }
 
+
+#food-hack-image{
+
+    height:600px;
+    width:100%;
+    background: url(../images/food-hacks.png) no-repeat center center;
+}

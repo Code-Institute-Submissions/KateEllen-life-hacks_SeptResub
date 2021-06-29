@@ -2,6 +2,8 @@
 
 body {
     font-family: 'Montserrat', sans-serif;
+    display: flex;
+    flex-direction: column;
 }
 
 /* navigation links */
@@ -67,5 +69,24 @@ nav {
     text-transform: capitalize;
     color: black; 
     font-size: 100px;
+}
+
+footer {
+    height: 150px;
+}
+
+.social-networks {
+    text-align: center;
+}
+
+.social-networks li {
+    display: inline;
+}
+
+.social-networks i {
+    font-size: 200%;
+    margin: 1%;
+    padding: 5%;
+    color:  #1A5276;
 }
 

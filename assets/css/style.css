@@ -125,8 +125,12 @@ footer {
     margin: 0 0 10% 10%;
     font-size: 20px;
     line-height: 3;
-    
-    
+  }
+
+  #cleaning-hack-image {
+    height:600px;
+    width:100%;
+    background: url(../images/cleaning-hacks.png) no-repeat center center;
   }
   
   

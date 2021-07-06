@@ -107,3 +107,16 @@ footer {
     line-height: 2;
 }
 
+* {
+    box-sizing: border-box;
+}
+
+.column {
+    float: left;
+    width: 50%;
+    padding: 0 10% 0 10%;
+    
+  }
+  
+  
+

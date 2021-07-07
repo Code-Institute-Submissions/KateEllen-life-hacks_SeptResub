@@ -8,6 +8,8 @@ Kate_Ellen
 This site is designed for people who love life hacks, but hate waisting time. It has been designed to genuinely help people with daily tasks, and make their lives a little easier. 
 This isn't five minute crafts. This is where you come when you want to cut out all the useless life hacks and find exactly what you need, when you need it. 
 
-## Helpful Tools 
+## UX
 
-I found canva.com extremely helpful so I could keep the image theme across my page. 
+### Credits 
+
+For 

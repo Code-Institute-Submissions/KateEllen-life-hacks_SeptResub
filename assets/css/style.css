@@ -52,7 +52,10 @@ nav {
     height:600px;
     width:100%;
     background: url(../images/hero-image.png) no-repeat center center;
+    background-color: #38b6ff;
 }
+
+
 
 #welcome-content p {
     text-align: center;
@@ -72,7 +75,8 @@ nav {
 }
 
 footer {
-    height: 150px;
+    height: 250px;
+    background-color: #38b6ff;
 }
 
 .social-networks {
@@ -87,10 +91,59 @@ footer {
     font-size: 200%;
     margin: 1%;
     padding: 5%;
-    color:  #1A5276;
+    color:  #000000;
 }
 
-@media screen and (max-width: 800px) {
+.social-networks a:hover i {
+    transform: rotate( 
+ -15deg
+  ) scale(2);
+    color: white;
+ 
+
+#food-hack-image {
+
+    height:600px;
+    width:100%;
+    background: url(../images/food-hacks.png) no-repeat center center;
+}
+
+.pages-intro {
+    text-align: center;
+    width: 80%;
+    padding: 0;  
+    margin: 0 0 10% 10%;
+    font-size: 20px;
+    line-height: 2;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+.column {
+    float: left;
+    width: 50%;
+    padding: 0 10% 0 10%;
+    
+  }
+
+  .mini-hacks {
+    text-align: center;
+    width: 80%;
+    height:600px 
+    margin: 0 0 10% 10%;
+    font-size: 20px;
+    line-height: 3;
+  }
+
+  #cleaning-hack-image {
+    height:600px;
+    width:100%;
+    background: url(../images/cleaning-hacks.png) no-repeat center center;
+  }
+  
+  @media screen and (max-width: 800px) {
 
     #hero-image{
 
@@ -133,48 +186,5 @@ footer {
         color:  #1A5276;
     } *//
 }
-
-#food-hack-image{
-
-    height:600px;
-    width:100%;
-    background: url(../images/food-hacks.png) no-repeat center center;
-}
-
-.pages-intro {
-    text-align: center;
-    width: 80%;
-    padding: 0;  
-    margin: 0 0 10% 10%;
-    font-size: 20px;
-    line-height: 2;
-}
-
-* {
-    box-sizing: border-box;
-}
-
-.column {
-    float: left;
-    width: 50%;
-    padding: 0 10% 0 10%;
-    
-  }
-
-  .mini-hacks {
-    text-align: center;
-    width: 80%;
-    height:600px 
-    margin: 0 0 10% 10%;
-    font-size: 20px;
-    line-height: 3;
-  }
-
-  #cleaning-hack-image {
-    height:600px;
-    width:100%;
-    background: url(../images/cleaning-hacks.png) no-repeat center center;
-  }
-  
   
 

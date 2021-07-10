@@ -189,5 +189,11 @@ footer {
         color:  #1A5276;
     } */
 }
+#your-hacks-image {
+    height:600px;
+    width:100%;
+    background: url(../images/your-hacks-image.png) no-repeat center center;
+    background-color: #38b6ff;
+}
   
 

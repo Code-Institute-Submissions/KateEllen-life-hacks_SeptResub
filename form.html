@@ -37,8 +37,8 @@
     <section id= "your-hacks-image"></section>   
    
 
-    <section>
-        <form method="POST" action="https://formdump.codeinstitute.net/" class="submit-form">
+    <section class ="form-section">
+        <form class ="your-idea-form" method="POST" action="https://formdump.codeinstitute.net/" class="submit-form">
             <h2>Submit your Life Hacks!</h2>
             <label for="fname">First Name</label>
             <input id="fname" name="first_name" type="text" required>
@@ -48,8 +48,24 @@
 
             <label for="userform">Tell us why you love this hack.</label>
             <br>
-            <textarea rows= "4" cols= "80" name= "comment" name= "userform" required>Submit your link and why you love it here!</textarea>
+            <textarea rows= "4" cols= "60" name= "comment" name= "userform" required>Submit your link and why you love it here!</textarea>
             <input type= "submit"/>
+
+            <p>What is your hack in relation to?</p>
+
+            <input type="radio" id="food" name="food-hack" value= "food">
+            <label for="food">Food Hacks</label><br>
+
+            <input type="radio" id="cleaning" name="cleaning-hack" value= "cleaning">
+            <label for="cleaning">Cleaning Hacks</label><br>  
+
+            <input type="radio" id="diy" name="diy-hacks" value= "diy">
+            <label for="diy">DIY Hacks</label><br>
+
+            <input type="radio" id="other" name="other-hacks" value= "other">
+            <label for="other">Other Hacks</label><br>
+
+            <input type="submit" value="Submit">
             </form>
     </section>
     

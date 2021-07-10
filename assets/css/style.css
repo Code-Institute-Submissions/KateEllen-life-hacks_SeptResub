@@ -195,5 +195,21 @@ footer {
     background: url(../images/your-hacks-image.png) no-repeat center center;
     background-color: #38b6ff;
 }
+
+/* Form */
+
+.form-section {
+    height: 600px;
+    
+}
+
+.your-idea-form {
+    margin: 150px 10% 0 0;
+    color: #fff;
+    background-color: rgba(60, 60, 60, 0.6);
+    max-width: 600px;
+    position: absolute;
+    left: 33.33%;
+    padding: 30px;
   
 

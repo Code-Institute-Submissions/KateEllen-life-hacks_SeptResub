@@ -202,6 +202,30 @@ footer {
     background: url(../images/diy-hacks.png) no-repeat center center;
     background-color: #38b6ff;
   }
+
+  /* Form */
+
+  #your-hacks-image {
+    height:600px;
+    width:100%;
+    background: url(../images/your-hacks-image.png) no-repeat center center;
+    background-color: #38b6ff;
+}
+
+.form-section {
+    height: 600px;
+    
+}
+
+.your-idea-form {
+    margin-top: 5%; 
+    color: #fff;
+    background: url(../images/form-image.jpg) no-repeat center center;
+    max-width: 600px;
+    position: absolute;
+    left: 33.33%;
+    padding: 30px; 
+}
   
   @media screen and (max-width: 800px) {
 
@@ -415,30 +439,3 @@ footer {
         height: auto;
         min-height: 150px;
 }
-#your-hacks-image {
-    height:600px;
-    width:100%;
-    background: url(../images/your-hacks-image.png) no-repeat center center;
-    background-color: #38b6ff;
-}
-
-/* Form */
-
-.form-section {
-    height: 600px;
-    
-}
-
-.your-idea-form {
-    margin-top: 5%; 
-    color: #fff;
-    background-color: rgba(56, 182, 255);
-    max-width: 600px;
-    position: absolute;
-    left: 33.33%;
-    padding: 30px; 
-}
-
-  
-
-    

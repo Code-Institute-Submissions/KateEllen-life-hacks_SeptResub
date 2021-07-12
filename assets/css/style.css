@@ -195,6 +195,13 @@ footer {
     background: url(../images/cleaning-hacks.png) no-repeat center center;
     background-color: #38b6ff;
   }
+
+  #diy-hack-image {
+    height:600px;
+    width:100%;
+    background: url(../images/diy-hacks.png) no-repeat center center;
+    background-color: #38b6ff;
+  }
   
   @media screen and (max-width: 800px) {
 

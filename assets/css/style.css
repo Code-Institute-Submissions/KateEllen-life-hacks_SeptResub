@@ -206,25 +206,120 @@ footer {
   /* Form */
 
   #your-hacks-image {
-    height:600px;
-    width:100%;
+    height: 600px;
+    width: 100%;
     background: url(../images/your-hacks-image.png) no-repeat center center;
     background-color: #38b6ff;
 }
-
 .form-section {
-    height: 600px;
-    
+    margin: 2.4rem auto 8.8rem;
+    max-width: 600px;
+    width: 100%;
+    min-height: 600px;
 }
-
+.form-section h2 {
+    text-align: center;
+    font-size: 24px;
+}
+.form-section input,
+select,
+textarea {
+    display: inline-block;
+    min-height: 44px;
+    height: auto;
+    border: 1px solid lightgrey;
+    color: blakc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    padding: 0 15px;
+    font-size: 1.4rem;
+    width: 100%;
+    -webkit-box-shadow: none;
+    -moz-box-shadow: none;
+    box-shadow: none;
+    letter-spacing: 0.3px;
+    line-height: 1.8rem;
+    cursor: pointer;
+}
+.form-section input[type=radio] {
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+    width: 1.6rem;
+    height: 1.6rem;
+    min-height: 1.6rem;
+    padding: 3px;
+    background-clip: content-box;
+    background-color: white;
+    border-radius: 50%;
+    display: inline-block;
+    cursor: pointer;
+}
+.form-section input[type=radio] label {
+    cursor: pointer;
+}
+.form-section input[type=radio]:checked,
+.form-section input[type=radio]:checked:focus,
+.form-section input[type=radio]:checked:hover {
+    background-color: #38b6ff;
+    border-color: #38b6ff;
+}
+.form-section label,
+.radio-label {    
+    font-size: 1.4rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    line-height: 2.2rem;
+    letter-spacing: 0.3px;
+    background: #0245976e;
+}
+.form-section .rad-label{
+    top: -5px;
+    position: relative;
+}
+.form-section input[type=submit] {
+    padding: 12px 14px;
+    width: 100%;
+    color: white;
+    font-family: "PT Sans", Arial, serif;
+    font-size: 18px;
+    font-weight: 700;
+    letter-spacing: 0.4px;
+    line-height: 18px;
+    text-align: center;
+    border-radius: 4px;
+    display: inline-block;
+    background: #38b6ff;
+    border: none;
+    cursor: pointer;
+}
+.form-section input[type=submit]:hover,
+.form-section input[type=submit]:focus {
+    background: #8dd5ff;
+    color: black;
+}
+.form-section textarea {
+    align-content: start;
+}
 .your-idea-form {
-    margin-top: 5%; 
     color: #fff;
     background: url(../images/form-image.jpg) no-repeat center center;
     max-width: 600px;
     position: absolute;
-    left: 33.33%;
-    padding: 30px; 
+    padding: 30px;
+    background-size: cover;
+    font-size: 20px;
+}
+    
+
+.submit-btn {
+    background: #38b6ff;
+     color: black;
+     border-color: #0066A2;
+     height: 30px;
+     width: 30%;
+     font-size: 120%;
+
 }
   
   @media screen and (max-width: 800px) {
@@ -237,7 +332,6 @@ footer {
 
         height:300px;
         width:100%;
-        background: url(../images/hero-image.png) no-repeat center center;
         display: block;
         background-position: center top;
         background-size: 100% auto;
@@ -248,8 +342,6 @@ footer {
     }
     #welcome-content p {
         text-align: center;
-
-        font-size: 80%;
         line-height: 2;
         min-height: 150px;
     }
@@ -265,14 +357,6 @@ footer {
     footer {
         height: 10%;
         background-color: #38b6ff;
-    }
-    
-    .social-networks {
-        
-    }
-    
-    .social-networks li {
-        
     }
     
     .social-networks i {
@@ -438,4 +522,90 @@ footer {
         background-size: 100% auto;
         height: auto;
         min-height: 150px;
-}
+        }
+
+        #food-hack-image {
+            height:300px;
+            width:100%;
+            display: block;
+            background-position: center top;
+            background-size: 100% auto;
+            height: auto;
+            min-height: 150px;
+            background-color: #38b6ff;
+        }
+
+        #cleaning-hack-image {
+            height:300px;
+            width:100%;
+            display: block;
+            background-position: center top;
+            background-size: 100% auto;
+            height: auto;
+            min-height: 150px;
+            background-color: #38b6ff;
+            
+        }
+
+        #diy-hack-image {
+            height:300px;
+            width:100%;
+            display: block;
+            background-position: center top;
+            background-size: 100% auto;
+            height: auto;
+            min-height: 150px;
+            background-color: #38b6ff;
+        }
+
+        #your-hacks-image {
+            height:300px;
+            width:100%;
+            display: block;
+            background-position: center top;
+            background-size: 100% auto;
+            height: auto;
+            min-height: 150px;
+            background-color: #38b6ff;
+        }
+
+        .form-section{
+            margin: 2.4rem 0;
+            min-height: 800px;
+        }
+        .your-idea-form{
+            width: calc(100vw - 15px);
+            padding: 15px;
+        }
+
+        .pages-intro {
+            text-align: center;
+            text-transform: capitalize;
+            color: black; 
+            font-size: 100%;
+        }
+        
+        .text-left {
+            text-align: center;
+            line-height: 2;
+            min-height: 150px;
+        }
+
+        .iframe-container{
+            position: relative;
+            width: 100%;
+            padding-bottom: 56.25%; 
+            height: 0;
+          }
+          .iframe-container iframe{
+            position: absolute; 
+            top:0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+          }
+        
+      
+        
+        
+    }

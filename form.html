@@ -6,13 +6,12 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="A page where useful life hacks are found">
     <meta name="keywords" content="life hacks, real hacks, useful hacks, food hacks, cleaning hacks, diy hacks">
-
     <link rel="stylesheet" href="assets/css/style.css">
     <title>Life Hacks</title>
 </head>
 <body>
-
     <header>
+        <!-- Navigation -->
         <nav id="menu">
             <ul>
                 <li>
@@ -28,72 +27,57 @@
                     <a href="diy.html">DIY</a>
                 </li>
                 <li>
-                    <a href="form.html" class= "active">Your Ideas</a>
+                    <a href="form.html" class="active">Your Ideas</a>
                 </li>
             </ul>
         </nav>
     </header>
-
-    <section id= "your-hacks-image"></section>   
-   
-
-    <section class ="form-section">
-        <form class ="your-idea-form" method="POST" action="https://formdump.codeinstitute.net/" class="submit-form">
-            <h2>Submit your Life Hacks!</h2>
+    <!-- Hero Image -->
+    <section id="your-hacks-image"></section>
+    <!-- Main Content-->
+    <section class="form-section">
+        <h2>Submit your Life Hacks!</h2>
+        <form class="your-idea-form" method="POST" action="https://formdump.codeinstitute.net/" class="submit-form">
             <label for="fname">First Name</label>
             <input id="fname" name="first_name" type="text" required>
-            
             <label for="email">Email Address</label>
             <input type="email" id="email" name="email_address" required>
-
             <label for="userform">Tell us why you love this hack.</label>
             <br>
-            <textarea rows= "4" cols= "60" name= "comment" name= "userform" required>Submit your link and why you love it here!</textarea>
-            
-
-            <p>What is your hack in relation to?</p>
-
-            <input type="radio" id="food-option" name="food-hack" value= "food-option">
-            <label for="food">Food Hacks</label><br>
-
-            <input type="radio" id="cleaning-option" name="cleaning-hack" value= "cleaning-option">
-            <label for="cleaning">Cleaning Hacks</label><br>  
-
-            <input type="radio" id="diy-option" name="diy-hacks" value= "diy-option">
-            <label for="diy">DIY Hacks</label><br>
-
-            <input type="radio" id="other" name="other-hacks" value= "other">
-            <label for="other">Other Hacks</label><br>
-
+            <textarea rows="4" cols="60" name="comment" name="userform"
+                required>Submit your link and why you love it here!</textarea>
+            <p class="radio-label">What is your hack in relation to?</p>
+            <input type="radio" id="food-option" name="hack-type" value="food-option">
+            <label class="rad-label" for="food">Food Hacks</label><br>
+            <input type="radio" id="cleaning-option" name="hack-type" value="cleaning-option">
+            <label class="rad-label" for="cleaning">Cleaning Hacks</label><br>
+            <input type="radio" id="diy-option" name="hack-type" value="diy-option">
+            <label class="rad-label" for="diy">DIY Hacks</label><br>
+            <input type="radio" id="other" name="hack-type" value="other">
+            <label class="rad-label" for="other">Other Hacks</label><br>
             <input type="submit" value="Submit">
         </form>
     </section>
-    
     <section>
-        
     </section>
-
+    <!-- Footer -->
     <footer>
-        <ul class= "social-networks">
-        
+        <ul class="social-networks">
             <li>
-                <a href="https://twitter.com" target= "_blank" rel="noopener" 
-                    aria-label=""Check out our Twitter page (opens in new tab)><i class="fab fa-twitter-square"></i></a>
+                <a href="https://twitter.com" target="_blank" rel="noopener" aria-label="" Check out our Twitter page
+                    (opens in new tab)><i class="fab fa-twitter-square"></i></a>
             </li>
             <li>
-                <a href="https://youtube.com" target= "_blank" rel="noopener" 
-                    aria-label=""Check out our Youtube page (opens in new tab)><i class="fab fa-youtube-square"></i></a>
+                <a href="https://youtube.com" target="_blank" rel="noopener" aria-label="" Check out our Youtube page
+                    (opens in new tab)><i class="fab fa-youtube-square"></i></a>
             </li>
             <li>
-                <a href="https://instagram.com" target= "_blank" rel="noopener" 
-                    aria-label=""Check out our Instagram page (opens in new tab)><i class="fab fa-instagram-square"></i></a>
+                <a href="https://instagram.com" target="_blank" rel="noopener" aria-label="" Check out our Instagram
+                    page (opens in new tab)><i class="fab fa-instagram-square"></i></a>
             </li>
-            
         </ul>
-
     </footer>
-
-    <!--font swesome script-->
+    <!--font aswesome script-->
     <script src="https://kit.fontawesome.com/546096f64a.js" crossorigin="anonymous"></script>
 </body>
 </html>

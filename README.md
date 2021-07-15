@@ -65,6 +65,10 @@ The live link can be found here - https://kateellen.github.io/life-hacks/
 
  [Form](https://github.com/KateEllen/life-hacks/blob/master/assets/images/documentation/form-screenshot.png)
 
+### Features left to impliment. 
+- I would like to add a site wide competiton to the form section, to encourage people to send in ideas. 
+- The competition would be featured as "The Best Life Hack Awards". Where the winner would recieve a prize as insentive. 
+- There would be a public vote held on the social media accounts to choose the winner. 
 
 
 ### Credits 

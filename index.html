@@ -33,35 +33,35 @@
             </ul>
         </nav>
 
-        <nav role="navigation">
-            <div id="menuToggle"> 
-              <!--
-              hidden checkbox is used as click reciever,
-              so you can use the :checked selector on it.
-              -->
-             <!-- <input name="toggle" type="checkbox" />
-              <label for="toggle">
-                 <span>menu</span> -->
-                
-               <!-- divs to be styled as a hamburger button
-                -->
+        <nav role="navigation" class="topnav">
+            <input type="checkbox" id="menuToggle" aria-label="Navigation menu toggle">
+            <label class="tab-label" for="menuToggle">
+                <!-- Burger button used for navigation -->
                 <div></div>
                 <div></div>
                 <div></div>
-              </label>
-          
-              
+
               <!--
               the menu that will slide in from the left
               -->
-              <ul id="mobile-nav">
-                <a href="index.html"><li>Home</li></a>
-                <a href="food.html"><li>About</li></a>
-                <a href="cleaning.html"><li>Contact</li></a>
-                <a href="diy.html"><li>Contact</li></a>
-                <a href="form.html"><li>Contact</li></a>
-              </ul>
-            </div>
+              <ul class="nav-menu" id="mobile-nav">
+               <a href="index.html">
+                   <li>Home</li>
+               </a>
+               <a href="food.html">
+                   <li>About</li>
+               </a>
+               <a href="cleaning.html">
+                   <li>Cleaning</li>
+               </a>
+               <a href="diy.html">
+                   <li>DIY</li>
+               </a>
+               <a href="form.html">
+                   <li>Your Ideas</li>
+               </a>
+           </ul>
+           </div>
           </nav>
     </header>
 
@@ -91,7 +91,7 @@
 </div>
 <div id= "diy">
     <h2 class= "image-link">
-        DIY
+        <a href="diy.html">DIY</a>
     </h2>
 </div>
 </div>

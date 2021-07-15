@@ -79,7 +79,7 @@ nav {
     text-align: center;
     text-transform: capitalize;
     color: black; 
-    font-size: 2.4rem;
+    font-size: 2.5rem;
 }
 /* Picture Links on index.html */
 
@@ -280,6 +280,27 @@ footer {
     font-size: 20px;
     line-height: 3;
   }
+
+  /* style the content in the mini hacks secton for better readability */
+.content-inner ul li {
+    font-size: 18px;
+    line-height: 34px;
+    margin: 10px 0;
+ }
+  
+ .wrap-collabsible {
+    width: 80%;
+    margin: 10px auto;
+ }
+ 
+ 800 Width media query:
+ .wrap-collabsible{
+        width: 100%;
+    }
+    .toggle:checked+.lbl-toggle+.collapsible-content {
+        max-height: 100%;
+    }
+ 
 
   #cleaning-hack-image {
     height:600px;
@@ -559,13 +580,26 @@ textarea {
         color:  #1A5276;
     } 
    
-      .picture-container {
-        
-        height:600px;
-        padding-top:20px;
-        padding-left:15px;
-        padding-right:15px;
+    picture-container {
+      
+        height:auto;
+        margin-top: -30px;
+        padding: 0;
     }
+    .image-link{
+        margin-top: 60px;
+    }
+    .section-block{
+            float: none!important;
+            width: calc(100% - 30px)!important;
+            height: 150px!important;
+            border: solid black;
+            background-image: url(../images/food.jpg);
+            background-size: cover!important;
+            height: auto;
+            margin: 15px!important;
+        }
+ 
     #food {
        /* float:left;*/
         width:100%;

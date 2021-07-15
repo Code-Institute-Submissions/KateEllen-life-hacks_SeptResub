@@ -482,6 +482,12 @@ textarea {
         /* Places the top bar above everything else. Previously had overlap issues with checkbox on about page */
     }
 
+    .topnav .cleaning {
+        background: url(../images/cleaning.jpg) no-repeat center center;
+        background-size: 200% auto;
+        height: 160px;
+    }
+
     .tab-label div {
         width: 60px;
         border: 3px solid black;

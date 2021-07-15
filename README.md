@@ -24,33 +24,40 @@ This isn't five minute crafts. This is where you come when you want to cut out a
 
 The live link can be found here - https://kateellen.github.io/life-hacks/
 
-### Features 
+## Features 
 
-## Existing Features 
+### Existing Features 
 
-- ** Navigation **
+#### Navigation 
  - Featured across all 5 pages. It is identical across all pages, which allows for easy navigation. 
  - This allows users to easily navigate throughout the website without having to us a back button. 
 
  ![Navigation](https://github.com/KateEllen/life-hacks/blob/master/assets/images/documentation/life-hack-navigation.png)
 
-- ** Mobile Navigation **
+ #### Mobile Navigation 
  - The mobile navigation is a convenient 'Hamburger' menu. Which hides to prevent taking up too much space on the mobile site.
  - It is featured at the top right hand corner even when scrolling to allow for easy navigation and a great user experience. 
 
  ![Mobile Navigation](https://github.com/KateEllen/life-hacks/blob/master/assets/images/documentation/life-hack-mobile-navigation.png)
 
- - ** Image Links **
+  #### Image Links 
 
   - This section on the homepage allows users to navigate to the three content pages without having to scroll back up to the navigation. It also adds some fun imagery to indicate what page you will be navigating to. 
   - The images feature large buttons that stick with the colour theme helping users to see which section they will be going to. 
 
 ![Image Links](https://github.com/KateEllen/life-hacks/blob/master/assets/images/documentation/image-links-screenshot.png)
 
-- ** Footer **
+#### Footer
  - The footer features social media links for the website's socail media account. Making it convenient for user's to interact. 
 
  ![Footer](https://github.com/KateEllen/life-hacks/blob/master/assets/images/documentation/footer-screenshot.png)
+
+ #### HTML & CSS Accordian/ "Mini Hacks"
+ - The accrodian featured at the bottom of all the pages (excluding the homepage and form page) make a fun accessible way to show extra hacks that you don't need a video to explain. 
+ - The accordian also tidies up the page and saves space. Preventing the pages from getting too cluttered looking. 
+
+ [Accordian Closed](https://github.com/KateEllen/life-hacks/blob/master/assets/images/documentation/accordian-closed.png)
+ [Accordian Open](https://github.com/KateEllen/life-hacks/blob/master/assets/images/documentation/accordian-open.png)
 
 ### Credits 
 

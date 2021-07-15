@@ -59,6 +59,14 @@ The live link can be found here - https://kateellen.github.io/life-hacks/
  [Accordian Closed](https://github.com/KateEllen/life-hacks/blob/master/assets/images/documentation/accordian-closed.png)
  [Accordian Open](https://github.com/KateEllen/life-hacks/blob/master/assets/images/documentation/accordian-open.png)
 
+ #### Form 
+ - The form page is easily accesible and a convenient way for users to submit their own ideas with ease
+ - It is easily read with clear instructions, and the link is featured across the website and featured on the navigation so users can find it anywhere on the site.
+
+ [Form](https://github.com/KateEllen/life-hacks/blob/master/assets/images/documentation/form-screenshot.png)
+
+
+
 ### Credits 
 
 ## Content 

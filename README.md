@@ -32,13 +32,13 @@ The live link can be found here - https://kateellen.github.io/life-hacks/
  - Featured across all 5 pages. It is identical across all pages, which allows for easy navigation. 
  - This allows users to easily navigate throughout the website without having to us a back button. 
 
- ![Navigation]()
+ ![Navigation](https://github.com/KateEllen/life-hacks/blob/master/assets/images/documentation/life-hack-navigation.png)
 
 - ** Mobile Navigation **
  - The mobile navigation is a convenient 'Hamburger' menu. Which hides to prevent taking up too much space on the mobile site.
  - It is featured at the top right hand corner even when scrolling to allow for easy navigation and a great user experience. 
 
- ![Mobile Navigation]()
+ ![Mobile Navigation](https://github.com/KateEllen/life-hacks/blob/master/assets/images/documentation/life-hack-mobile-navigation.png)
 
 ### Credits 
 

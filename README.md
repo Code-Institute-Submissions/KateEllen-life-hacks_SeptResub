@@ -40,6 +40,15 @@ The live link can be found here - https://kateellen.github.io/life-hacks/
 
  ![Mobile Navigation](https://github.com/KateEllen/life-hacks/blob/master/assets/images/documentation/life-hack-mobile-navigation.png)
 
+ - ** Image Links **
+
+  - This section on the homepage allows users to navigate to the three content pages without having to scroll back up to the navigation. It also adds some fun imagery to indicate what page you will be navigating to. 
+  - The images feature large buttons that stick with the colour theme helping users to see which section they will be going to. 
+
+![Image Links](https://github.com/KateEllen/life-hacks/blob/master/assets/images/documentation/image-links-screenshot.png)
+
+
+
 ### Credits 
 
 ## Content 

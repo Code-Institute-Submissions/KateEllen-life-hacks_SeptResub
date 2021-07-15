@@ -24,10 +24,29 @@ This isn't five minute crafts. This is where you come when you want to cut out a
 
 The live link can be found here - https://kateellen.github.io/life-hacks/
 
+### Features 
+
+## Existing Features 
+
+- ** Navigation **
+ - Featured across all 5 pages. It is identical across all pages, which allows for easy navigation. 
+ - This allows users to easily navigate throughout the website without having to us a back button. 
+
+ ![Navigation]()
+
+- ** Mobile Navigation **
+ - The mobile navigation is a convenient 'Hamburger' menu. Which hides to prevent taking up too much space on the mobile site.
+ - It is featured at the top right hand corner even when scrolling to allow for easy navigation and a great user experience. 
+
+ ![Mobile Navigation]()
+
 ### Credits 
 
 ## Content 
-* Sites that Mini Hacks content are as follows ; 
-- [Food Hacks](https://www.lovefood.com/gallerylist/70590/50-food-hacks-that-are-borderline-genius)
-- [Cleaning Hacks](https://www.tablesgenerator.com/markdown_tables) - used to help with documentation table formatting
-- [DIY Hacks](https://bestlifeonline.com/easy-home-hacks/)
+-  Mini Hacks content were taken from the below. 
+- [Love Food](https://www.lovefood.com/gallerylist/70590/50-food-hacks-that-are-borderline-genius)
+- [Good House Keeping](https://www.goodhousekeeping.com/uk/house-and-home/household-advice/a27451631/ghi-best-cleaning-hacks-tips
+)
+- [Best Life Online](https://bestlifeonline.com/easy-home-hacks/)
+
+- The icons in the footer were taken from [Font Awesome] (https://fontawesome.com/)

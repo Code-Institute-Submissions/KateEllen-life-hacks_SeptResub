@@ -26,4 +26,8 @@ The live link can be found here - https://kateellen.github.io/life-hacks/
 
 ### Credits 
 
-For 
+## Content 
+* Sites that Mini Hacks content are as follows ; 
+- [Food Hacks](https://www.lovefood.com/gallerylist/70590/50-food-hacks-that-are-borderline-genius)
+- [Cleaning Hacks](https://www.tablesgenerator.com/markdown_tables) - used to help with documentation table formatting
+- [DIY Hacks](https://bestlifeonline.com/easy-home-hacks/)

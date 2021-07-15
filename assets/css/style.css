@@ -45,9 +45,6 @@ nav {
     color: #85C1E9;
 }
 
-#mobile-nav {
-    display: none;
-}
 /* hero image */
 
 #hero-image{
@@ -275,7 +272,7 @@ footer {
    .mini-hacks {
     text-align: center;
     width: 80%;
-    height:600px 
+    height:600px; 
     margin: 0 0 10% 10%;
     font-size: 20px;
     line-height: 3;
@@ -292,14 +289,7 @@ footer {
     width: 80%;
     margin: 10px auto;
  }
- 
- 800 Width media query:
- .wrap-collabsible{
-        width: 100%;
-    }
-    .toggle:checked+.lbl-toggle+.collapsible-content {
-        max-height: 100%;
-    }
+
  
 
   #cleaning-hack-image {
@@ -440,106 +430,97 @@ textarea {
     #menu {
         display: none;
     }
-
-     
     /* Style rules for the navigational "burger button" icon on the top navigation bar */
-   .topnav {
-    display: inline-block;
-    overflow: hidden;
-    width: 100%;
-    font-size: 40px;
-    margin: 0 0 40px 0;
-    padding: 0;
-    font-family: 'Grand Hotel', Helvetica, sans-serif;
-    /* Sets the font for the site logo */
-    font-weight: 500;
-    height: 100px;
-    position: fixed;
-    /* Stays permanently at the top of the page */
-    top: 0;
-    z-index: 5;
-    /* Places the top bar above everything else. Previously had overlap issues with checkbox on about page */
-}
-
-     
-   .tab-label div {
-    width: 60px;
-    border: 3px solid black;
-    margin: 15px;
-    position: relative;
-    top: 35px;
-}
-
-.topnav ul {
-    list-style: none;
-    /* Removes bullet points from list */
-    margin: 0 10px 0 0;
-    padding: 0;
-    background: white;
-    color: black;
-    display: inline-block;
-    position: fixed;
-    /* Nav bar is fixed so when the navigation list appears it too must be fixed */
-    width: 100%;
-    top: 100px;
-    overflow-x: hidden;
-    text-align: left;
-}
-
-   /* Styling the labels used for navigation in the top nav. */
- 
-   .topnav label {
-    display: block;
-    cursor: pointer;
-    /* Allows the cursor to display as a pointer, showing the user the label is clickable */
-}
-
-/* Used to change the burger button to white on hover */
-.topnav label:hover div {
-    border-color: white;
-}
-
-
-.topnav input[type="checkbox"] {
-    position: absolute;
-    left: -9999px;
-}
-
-.topnav input[type="checkbox"]:checked+label div {
-    border-color: white;
-}
-.topnav input[type="checkbox"]+label div {
-    border-color: black;
-}
-
-.topnav input[type="checkbox"]~ul {
-    height: 0;
-    transform: scaleY(0);
-    left: 0;
-    top: 125px;
-}
-
-.topnav input[type="checkbox"]:checked~ul {
-    height: auto;
-    transform-origin: top;
-    transition: transform .2s ease-out;
-    transform: scaleY(1);
-}
- /* make links look more like buttons */
- .nav-menu a {
-    background: #1a5276;
-    color: white;
-    text-decoration: none;
-    display: block;
-    padding: 10px 15px;
-    width: 100%;
-    border: 1px solid white;
-    cursor: pointer;
-    border-left: 8px solid white;
-    border-right: 8px solid white;
-}
-
-/* End of style rules for navigation menu and navigation bar */
+    .topnav {
+        display: inline-block;
+        overflow: hidden;
+        width: 100%;
+        font-size: 40px;
+        margin: 0 0 40px 0;
+        padding: 0;
+        font-family: 'Grand Hotel', Helvetica, sans-serif;
+        /* Sets the font for the site logo */
+        font-weight: 500;
+        height: 150px;
+        position: fixed;
+        /* Stays permanently at the top of the page */
+        top: 0;
+        left: 0;
+        z-index: 5;
+        background-color: #38b6ff;
+        background: url(../images/hero-image.png) no-repeat center center;
+        background-size: calc(100% - 16px) auto;
+        /* Places the top bar above everything else. Previously had overlap issues with checkbox on about page */
+    }
+    .tab-label div {
+        width: 60px;
+        border: 3px solid black;
+        margin: 15px;
+        position: relative;
+        top: 35px;
+    }
+    .topnav ul {
+        list-style: none;
+        /* Removes bullet points from list */
+        margin: 0 10px 0 0;
+        padding: 0;
+        background: white;
+        color: black;
+        display: inline-block;
+        position: fixed;
+        /* Nav bar is fixed so when the navigation list appears it too must be fixed */
+        width: 100%;
+        top: 100px;
+        overflow-x: hidden;
+        text-align: left;
+    }
+    /* Styling the labels used for navigation in the top nav. */
+    .topnav label {
+        display: block;
+        cursor: pointer;
+        position: relative;
+        top: -20px;
+        /* Allows the cursor to display as a pointer, showing the user the label is clickable */
+    }
+    /* Used to change the burger button to white on hover */
+    .topnav label:hover div {
+        border-color: white;
+    }
+    .topnav input[type="checkbox"] {
+        position: absolute;
+        left: -9999px;
+    }
+    .topnav input[type="checkbox"]:checked+label div {
+        border-color: white;
+    }
+    .topnav input[type="checkbox"]+label div {
+        border-color: black;
+    }
+    .topnav input[type="checkbox"]~ul {
+        height: 0;
+        transform: scaleY(0);
+        left: 0;
+    }
+    .topnav input[type="checkbox"]:checked~ul {
+        height: auto;
+        transform-origin: top;
+        transition: transform .2s ease-out;
+        transform: scaleY(1);
+    }
+    /* make links look more like buttons */
+    .nav-menu a {
+        background: #1a5276;
+        color: white;
+        text-decoration: none;
+        display: block;
+        padding: 10px 15px;
+        width: 100%;
+        border: 1px solid white;
+        cursor: pointer;
+        border-left: 8px solid white;
+        border-right: 8px solid white;
+    }
+    /* End of style rules for navigation menu and navigation bar */
 
 
     #hero-image{
@@ -565,7 +546,7 @@ textarea {
         text-align: center;
         text-transform: capitalize;
         color: black; 
-        font-size: 2.4rem%;
+        font-size: 2.4rem;
     }
 
     #welcome-content p br{
@@ -580,7 +561,7 @@ textarea {
         color:  #1A5276;
     } 
    
-    picture-container {
+    .picture-container {
       
         height:auto;
         margin-top: -30px;
@@ -720,5 +701,12 @@ textarea {
         width: 100%;
         padding: 15px 0;
 }    
+
+.wrap-collabsible{
+    width: 100%;
+}
+.toggle:checked+.lbl-toggle+.collapsible-content {
+    max-height: 100%;
+}
         
     }

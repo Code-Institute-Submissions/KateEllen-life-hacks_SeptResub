@@ -47,7 +47,10 @@ The live link can be found here - https://kateellen.github.io/life-hacks/
 
 ![Image Links](https://github.com/KateEllen/life-hacks/blob/master/assets/images/documentation/image-links-screenshot.png)
 
+- ** Footer **
+ - The footer features social media links for the website's socail media account. Making it convenient for user's to interact. 
 
+ ![Footer](https://github.com/KateEllen/life-hacks/blob/master/assets/images/documentation/footer-screenshot.png)
 
 ### Credits 
 

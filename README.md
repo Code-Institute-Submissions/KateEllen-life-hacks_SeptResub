@@ -71,6 +71,16 @@ The live link can be found here - https://kateellen.github.io/life-hacks/
 - There would be a public vote held on the social media accounts to choose the winner. 
 
 
+## Testing
+
+#### Submission form:
+    1. Go to the "Your Ideas" page
+    2. Try to submit the empty form and verify that an error message about the required fields appears
+    3. Try to submit the form with an invalid email address with no @ symbol and verify that a relevant error message appears
+    4. Try to submit form without entering name and verify that an error message appears.
+    5. Try to submit the form with all inputs valid and verify that a success message appears.
+    
+
 ### Credits 
 
 ## Content 

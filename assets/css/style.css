@@ -488,12 +488,13 @@ textarea {
         height: 160px;
     }
 
-    .tab-label div {
+    .tab-label span {
         width: 60px;
         border: 3px solid black;
         margin: 15px;
         position: relative;
         top: 35px;
+        display: block;
     }
 
     .topnav ul {
@@ -522,7 +523,7 @@ textarea {
     }
 
     /* Used to change the burger button to white on hover */
-    .topnav label:hover div {
+    .topnav label:hover span {
         border-color: white;
     }
 
@@ -531,11 +532,10 @@ textarea {
         left: -9999px;
     }
 
-    .topnav input[type="checkbox"]:checked+label div {
+    .topnav input[type="checkbox"]:checked+label span {
         border-color: white;
     }
-
-    .topnav input[type="checkbox"]+label div {
+    .topnav input[type="checkbox"]+label span {
         border-color: black;
     }
 

@@ -112,11 +112,6 @@ Below are the wireframes I created when first starting my project. I mainly stuc
 
 - It was also tested on safari, chrome and firefox. 
 
-### Outstanding Defectsgs 
-
-- On some smaller screens the three images on the home page can line up incorrectly. Due to time restrictions I did not fix this. 
-
-![Image Defect](https://github.com/KateEllen/life-hacks/blob/master/assets/images/documentation/image_defect.png)
 
 #### Submission form:
     1. Go to the "Your Ideas" page
@@ -137,6 +132,12 @@ Below are the wireframes I created when first starting my project. I mainly stuc
     3. Click on each link to ensure they bring you to the correct social media page, also ensure they bring you to a new tab. 
     4. Reapeat on all pages to ensure they all work correctly as above.             
 
+
+## Outstanding Defects 
+
+- On some smaller screens the three images on the home page can line up incorrectly. Due to time restrictions I did not fix this. 
+
+![Image Defect](https://github.com/KateEllen/life-hacks/blob/master/assets/images/documentation/image_defect.png)
 ## Deployments 
 
 - The site was deployed to GitHub pages. The steps to deploy are as follows: 

@@ -16,11 +16,11 @@ This isn't five minute crafts. This is where you come when you want to cut out a
 ### Wireframes 
 
 Below are the wireframes I created when first starting my project. I mainly stuck to the wireframes, only changing certain styles such as the accrodian for the "Mini Hacks" instead of a box. 
-![Homepage](https://github.com/KateEllen/life-hacks/blob/master/assets/images/documentation/wireframe_1.png)
-![Food Hack Page](https://github.com/KateEllen/life-hacks/blob/master/assets/images/documentation/wireframe_2.png)
-![Mini Hacks](https://github.com/KateEllen/life-hacks/blob/master/assets/images/documentation/wireframe_3.png)
-![Mobile Home](https://github.com/KateEllen/life-hacks/blob/master/assets/images/documentation/wireframe_4.png)
-![Navigation](https://github.com/KateEllen/life-hacks/blob/master/assets/images/documentation/wireframe_5.png)
+[Homepage](https://github.com/KateEllen/life-hacks/blob/master/assets/images/documentation/wireframe_1.png)
+[Food Hack Page](https://github.com/KateEllen/life-hacks/blob/master/assets/images/documentation/wireframe_2.png)
+[Mini Hacks](https://github.com/KateEllen/life-hacks/blob/master/assets/images/documentation/wireframe_3.png)
+[Mobile Home](https://github.com/KateEllen/life-hacks/blob/master/assets/images/documentation/wireframe_4.png)
+[Navigation](https://github.com/KateEllen/life-hacks/blob/master/assets/images/documentation/wireframe_5.png)
 
 ## Design Choices 
 

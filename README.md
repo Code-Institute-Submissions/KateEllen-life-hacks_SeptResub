@@ -144,7 +144,7 @@ The live link can be found here - https://kateellen.github.io/life-hacks/
 )
 - [Best Life Online](https://bestlifeonline.com/easy-home-hacks/)
 
-- The icons in the footer were taken from ![Font Awesome] (https://fontawesome.com/)
+- The icons in the footer were taken from [Font Awesome] (https://fontawesome.com/)
 
 ## Acknowledgments
 - I would like to specifically acknowledge my mentor Malia. She has steered me in the right direction throughout this entire project. 

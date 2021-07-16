@@ -34,6 +34,12 @@ Below are the wireframes I created when first starting my project. I mainly stuc
 
 - White is used in the mobile nav font as it makes the options very clear to users, as opposed to black.
 
+#### Images
+
+- I created all my main images on [Canva](https://www.canva.com/). I did this to keep the theme across the website as I found it very difficult to find images that were suitable. 
+
+- I found my three image link pictures on [Pixby](https://pixabay.com/). I specifically chose these images as they are of similar colour and style, providing a visually pleasant experience. 
+
 ## Features 
 
 ### Existing Features 

@@ -101,6 +101,17 @@ Below are the wireframes I created when first starting my project. I mainly stuc
 2. I went to the line of code where the error was and fixed it. This resulted in my CSS passing validation. ![CSS No Error](https://github.com/KateEllen/life-hacks/blob/master/assets/images/documentation/css_validation_2.png)
 
 #### HTML Validator 
+- I fixed a lot of errors using the HTML validator, but due to time restriction not all could be resolved. 
+
+#### Cross Browser and Device Testing
+
+- I tested my site on the below. 
+1. Samsung S20 - 5.97 X 2.72 
+2. MacBook Pro - 12.78 X 8.94 
+3. dev tools emulator: pixel 2 - SM 411 x 731 mm
+
+- It was also tested on safari, chrome and firefox. 
+
 
 #### Submission form:
     1. Go to the "Your Ideas" page
@@ -152,3 +163,4 @@ The live link can be found here - https://kateellen.github.io/life-hacks/
 - I learned how to do the accordian thanks to [CodePen](https://codepen.io/alligatorio/pen/KKzWqVX).
 - Watching this handy video Youtube helped me with making my Youtube videos responsive. [tipswithpunch](https://www.youtube.com/watch?v=9YffrCViTVk)
 - For my hamburger menu I used a combination of online tutorials [medium.com](https://medium.com/@heyoka/responsive-pure-css-off-canvas-hamburger-menu-aebc8d11d793) and my mentor Malia. 
+- My responsive image on this README.md was created with [Ami.responsivedesign] (http://ami.responsivedesign.is/#)

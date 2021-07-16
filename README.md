@@ -136,3 +136,6 @@ The live link can be found here - https://kateellen.github.io/life-hacks/
 ## Acknowledgments
 - I would like to specifically acknowledge my mentor Malia. She has steered me in the right direction throughout this entire project. 
 - The Love Running walkthrough project was a great tool. It allowed me to easily find solutions to problems I knew I had already done that I just needed a refresher on. 
+- I learned how to do the accordian thanks to [CodePen](https://codepen.io/alligatorio/pen/KKzWqVX).
+- Watching this handy video Youtube helped me with making my Youtube videos responsive. [tipswithpunch](https://www.youtube.com/watch?v=9YffrCViTVk)
+- For my hamburger menu I used a combination of online tutorials [medium.com](https://medium.com/@heyoka/responsive-pure-css-off-canvas-hamburger-menu-aebc8d11d793) and my mentor Malia. 

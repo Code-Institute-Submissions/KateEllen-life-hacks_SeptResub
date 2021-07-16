@@ -89,10 +89,18 @@ Below are the wireframes I created when first starting my project. I mainly stuc
 
 ## Testing
 
+### Lighthouse Audit 
+- Home Page 
+![Homepage Audit](https://github.com/KateEllen/life-hacks/blob/master/assets/images/documentation/lighthouse_1.png)
+![Food Hack Page](https://github.com/KateEllen/life-hacks/blob/master/assets/images/documentation/lighthouse_2.png)
+![Form Audit](https://github.com/KateEllen/life-hacks/blob/master/assets/images/documentation/lighthouse_3.png)
+
 ### Validator Testing 
 #### W3C CSS Validation 
 1. When I first put my CSS through the validator I recieved 1 error. ![Css Error](https://github.com/KateEllen/life-hacks/blob/master/assets/images/documentation/css_validation_1.png)
 2. I went to the line of code where the error was and fixed it. This resulted in my CSS passing validation. ![CSS No Error](https://github.com/KateEllen/life-hacks/blob/master/assets/images/documentation/css_validation_2.png)
+
+#### HTML Validator 
 
 #### Submission form:
     1. Go to the "Your Ideas" page

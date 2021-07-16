@@ -116,7 +116,7 @@ Below are the wireframes I created when first starting my project. I mainly stuc
 
 - On some smaller screens the three images on the home page can line up incorrectly. Due to time restrictions I did not fix this. 
 
-! [Image Defect](https://github.com/KateEllen/life-hacks/blob/master/assets/images/documentation/image_defect.png)
+![Image Defect](https://github.com/KateEllen/life-hacks/blob/master/assets/images/documentation/image_defect.png)
 
 #### Submission form:
     1. Go to the "Your Ideas" page

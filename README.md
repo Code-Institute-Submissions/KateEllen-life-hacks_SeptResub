@@ -56,14 +56,14 @@ The live link can be found here - https://kateellen.github.io/life-hacks/
  - The accrodian featured at the bottom of all the pages (excluding the homepage and form page) make a fun accessible way to show extra hacks that you don't need a video to explain. 
  - The accordian also tidies up the page and saves space. Preventing the pages from getting too cluttered looking. 
 
- [Accordian Closed](https://github.com/KateEllen/life-hacks/blob/master/assets/images/documentation/accordian-closed.png)
- [Accordian Open](https://github.com/KateEllen/life-hacks/blob/master/assets/images/documentation/accordian-open.png)
+ ![Accordian Closed](https://github.com/KateEllen/life-hacks/blob/master/assets/images/documentation/accordian-closed.png)
+ ![Accordian Open](https://github.com/KateEllen/life-hacks/blob/master/assets/images/documentation/accordian-open.png)
 
  #### Form 
  - The form page is easily accesible and a convenient way for users to submit their own ideas with ease
  - It is easily read with clear instructions, and the link is featured across the website and featured on the navigation so users can find it anywhere on the site.
 
- [Form](https://github.com/KateEllen/life-hacks/blob/master/assets/images/documentation/form-screenshot.png)
+ ![Form](https://github.com/KateEllen/life-hacks/blob/master/assets/images/documentation/form-screenshot.png)
 
 ### Features left to impliment. 
 - I would like to add a site wide competiton to the form section, to encourage people to send in ideas. 
@@ -79,7 +79,18 @@ The live link can be found here - https://kateellen.github.io/life-hacks/
     3. Try to submit the form with an invalid email address with no @ symbol and verify that a relevant error message appears
     4. Try to submit form without entering name and verify that an error message appears.
     5. Try to submit the form with all inputs valid and verify that a success message appears.
-    
+
+#### Accordian: 
+    1. Go to "Cleaning" page.
+    2. Scroll down to the bottom of the page and click the "mini hacks" bar.
+    3. Make sure it shows content and doesn't overlap the footer when it is extended.
+    4. Repeat on "DIY" and "Food" pages to ensure they all work and look the same. 
+
+#### Social Media Links: 
+    1. Open any page on website. 
+    2. Scroll to the bottom of the page where the footer is and hoover over each to ensure they change color and rotate. 
+    3. Click on each link to ensure they bring you to the correct social media page, also ensure they bring you to a new tab. 
+    4. Reapeat on all pages to ensure they all work correctly as above.             
 
 ### Credits 
 

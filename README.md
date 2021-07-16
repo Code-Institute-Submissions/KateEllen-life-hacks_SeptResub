@@ -22,6 +22,18 @@ Below are the wireframes I created when first starting my project. I mainly stuc
 ![Mobile Home](https://github.com/KateEllen/life-hacks/blob/master/assets/images/documentation/wireframe_4.png)
 ![Navigation](https://github.com/KateEllen/life-hacks/blob/master/assets/images/documentation/wireframe_5.png)
 
+### Design Choices 
+
+#### Colours 
+
+- I chose the colour #38b6ff for the images and footer as it is a calm welcoming colour. It's not too bright or loud making a great user experience. 
+
+- Black was chosen for the font colour to make it easy for users to read. 
+
+- The #1A5276 colour on the navigation was chosen to tie in with the images and footer. I chose a navy/blue colour instead of the same one to make it easily stand out. It is also used in the mobile nav to make it stand out to users. 
+
+- White is used in the mobile nav font as it makes the options very clear to users, as opposed to black.
+
 ## Features 
 
 ### Existing Features 

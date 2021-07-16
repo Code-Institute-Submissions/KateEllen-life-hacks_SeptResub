@@ -22,7 +22,7 @@ Below are the wireframes I created when first starting my project. I mainly stuc
 ![Mobile Home](https://github.com/KateEllen/life-hacks/blob/master/assets/images/documentation/wireframe_4.png)
 ![Navigation](https://github.com/KateEllen/life-hacks/blob/master/assets/images/documentation/wireframe_5.png)
 
-### Design Choices 
+## Design Choices 
 
 #### Colours 
 
@@ -88,6 +88,11 @@ Below are the wireframes I created when first starting my project. I mainly stuc
 
 
 ## Testing
+
+### Validator Testing 
+#### W3C CSS Validation 
+1. When I first put my CSS through the validator I recieved 1 error. ![Css Error](https://github.com/KateEllen/life-hacks/blob/master/assets/images/documentation/css_validation_1.png)
+2. I went to the line of code where the error was and fixed it. This resulted in my CSS passing validation. ![CSS No Error](https://github.com/KateEllen/life-hacks/blob/master/assets/images/documentation/css_validation_2.png)
 
 #### Submission form:
     1. Go to the "Your Ideas" page

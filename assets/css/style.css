@@ -535,6 +535,7 @@ textarea {
     .topnav input[type="checkbox"]:checked+label span {
         border-color: white;
     }
+
     .topnav input[type="checkbox"]+label span {
         border-color: black;
     }

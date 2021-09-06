@@ -101,7 +101,9 @@ Below are the wireframes I created when first starting my project. I mainly stuc
 2. I went to the line of code where the error was and fixed it. This resulted in my CSS passing validation. ![CSS No Error](https://github.com/KateEllen/life-hacks/blob/master/assets/images/documentation/css_validation_2.png)
 
 #### HTML Validator 
-- I fixed a lot of errors using the HTML validator, but due to time restriction not all could be resolved. 
+
+![HTML no error](https://github.com/KateEllen/life-hacks/blob/master/assets/images/documentation/html_validation.png)
+- I fixed a lot of errors using the HTML validator, it is now only showing one warning with all errors fixed. 
 
 #### Cross Browser and Device Testing
 

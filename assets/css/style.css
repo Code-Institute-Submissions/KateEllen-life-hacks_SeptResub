@@ -86,6 +86,7 @@ nav {
     padding-top: 20px;
     padding-left: 15px;
     padding-right: 15px;
+    display: flex;
 }
 
 #food {
@@ -102,7 +103,7 @@ nav {
     width: 400px;
     height: 350px;
     border: solid black;
-    margin-left: 17%;
+    margin-left: 5px;
     background-image: url(../images/cleaning.jpg);
 }
 
@@ -111,7 +112,7 @@ nav {
     width: 400px;
     height: 350px;
     border: solid black;
-    margin-right: 5px;
+    margin-left: 5px;
     background-image: url(../images/diy.jpg);
 }
 

@@ -135,11 +135,16 @@ Below are the wireframes I created when first starting my project. I mainly stuc
     4. Reapeat on all pages to ensure they all work correctly as above.             
 
 
-## Outstanding Defects 
+## Fixed Defects 
 
-- On some smaller screens the three images on the home page can line up incorrectly. Due to time restrictions I did not fix this. 
+- On some smaller screens the three images on the home page were lining up incorrectly.  
 
 ![Image Defect](https://github.com/KateEllen/life-hacks/blob/master/assets/images/documentation/image_defect.png)
+
+- I resolved this by making the picture container full width by being block instead of flex on small devices
+
+![Fixed Image Defect](https://github.com/KateEllen/life-hacks/blob/master/assets/images/documentation/fixed_image_defect.png)
+
 ## Deployments 
 
 - The site was deployed to GitHub pages. The steps to deploy are as follows: 

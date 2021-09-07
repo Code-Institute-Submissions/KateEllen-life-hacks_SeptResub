@@ -87,6 +87,9 @@ nav {
     padding-left: 15px;
     padding-right: 15px;
     display: flex;
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
 }
 
 #food {
@@ -94,7 +97,7 @@ nav {
     width: 400px;
     height: 350px;
     border: solid black;
-    margin-left: 5px;
+    margin-left: 15px;
     background-image: url(../images/food.jpg);
 }
 
@@ -103,7 +106,7 @@ nav {
     width: 400px;
     height: 350px;
     border: solid black;
-    margin-left: 5px;
+    margin-left: 15px;
     background-image: url(../images/cleaning.jpg);
 }
 
@@ -112,7 +115,7 @@ nav {
     width: 400px;
     height: 350px;
     border: solid black;
-    margin-left: 5px;
+    margin-left: 15px;
     background-image: url(../images/diy.jpg);
 }
 
@@ -610,12 +613,10 @@ textarea {
         color: #1A5276;
     }
 
-    .picture-container {
-
-        height: auto;
-        margin-top: -30px;
-        padding: 0;
-    }
+/* picture-container goes full width by being block instead of flex on small devices */
+.picture-container{
+    display: block;
+}
 
     .image-link {
         margin-top: 60px;

@@ -588,7 +588,7 @@ textarea {
     }
 
     /* Reduce font size on smaller devices */
-    .pages-intro h2{
+    .pages-intro h2 {
         font-size: 24px;
     }
 
@@ -618,10 +618,10 @@ textarea {
         color: #1A5276;
     }
 
-/* picture-container goes full width by being block instead of flex on small devices */
-.picture-container{
-    display: block;
-}
+    /* picture-container goes full width by being block instead of flex on small devices */
+    .picture-container {
+        display: block;
+    }
 
     .image-link {
         margin-top: 60px;

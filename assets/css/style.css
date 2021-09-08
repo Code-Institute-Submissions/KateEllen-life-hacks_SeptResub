@@ -587,6 +587,11 @@ textarea {
 
     }
 
+    /* Reduce font size on smaller devices */
+    .pages-intro h2{
+        font-size: 24px;
+    }
+
     #welcome-content p {
         text-align: center;
         line-height: 2;
